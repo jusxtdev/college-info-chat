@@ -1,0 +1,195 @@
+{
+  "blocks": [
+    {
+      "id": "block_1",
+      "name": "Administrative Block",
+      "description": null
+    },
+    {
+      "id": "block_2",
+      "name": "EC & IC Department Block",
+      "description": null
+    },
+    {
+      "id": "block_3",
+      "name": "General Department Block",
+      "description": null
+    },
+    {
+      "id": "block_4",
+      "name": "Library Block",
+      "description": null
+    },
+    {
+      "id": "block_5",
+      "name": "CE & IT Department Block",
+      "description": null
+    },
+    {
+      "id": "block_6",
+      "name": "Workshop",
+      "description": null
+    },
+    {
+      "id": "block_7",
+      "name": "Canteen Block",
+      "description": null
+    },
+    {
+      "id": "block_8",
+      "name": "Biomedical & Metallurgy Department Block",
+      "description": null
+    }
+  ],
+  "departments": [
+    {
+      "id": "administrative",
+      "name": "Administrative Department",
+      "short_name": "Administrative",
+      "HOD": null,
+      "block_id": "block_1"
+    },
+    {
+      "id": "biomedical",
+      "name": "Biomedical Engineering",
+      "short_name": "BME",
+      "HOD": "Dr. Ghanshyam Parmar",
+      "block_id": "block_8"
+    },
+    {
+      "id": "computer",
+      "name": "Computer Engineering",
+      "short_name": "CE",
+      "HOD": "Dr. Dhaval Parikh",
+      "block_id": "block_5"
+    },
+    {
+      "id": "electronics_communication",
+      "name": "Electronics & Communication Engineering",
+      "short_name": "EC",
+      "HOD": "Dr. Tejas B. Sheth",
+      "block_id": "block_2"
+    },
+    {
+      "id": "general",
+      "name": "General Department",
+      "short_name": "General",
+      "HOD": "Dr. Ashok R Patel",
+      "block_id": "block_3"
+    },
+    {
+      "id": "information_technology",
+      "name": "Information Technology",
+      "short_name": "IT",
+      "HOD": "Dr. Komal Anadkat",
+      "block_id": "block_5"
+    },
+    {
+      "id": "instrumentation_control",
+      "name": "Instrumentation & Control Engineering",
+      "short_name": "IC",
+      "HOD": "Prof. Manish Jani",
+      "block_id": "block_2"
+    },
+    {
+      "id": "metallurgy",
+      "name": "Metallurgy Engineering",
+      "short_name": "Metallurgy",
+      "HOD": "Dr. Indravadan B. Dave",
+      "block_id": "block_8"
+    },
+    {
+      "id": "mechanical",
+      "name": "Mechanical Engineering",
+      "short_name": "ME",
+      "HOD": "Dr. Rupal P Vyasa",
+      "block_id": null
+    },
+    {
+      "id": "civil",
+      "name": "Civil Engineering",
+      "short_name": "Civil",
+      "HOD": "Dr. Narendra Arora",
+      "block_id": null
+    },
+    {
+      "id": "robotics_automation",
+      "name": "Robotics and Automation Engineering",
+      "short_name": "RA",
+      "HOD": "Dr. M J Vora",
+      "block_id": null
+    },
+    {
+      "id": "electrical",
+      "name": "Electrical Engineering",
+      "short_name": "EE",
+      "HOD": "Dr. Kunal Ashvinkumar Bhatt",
+      "block_id": null
+    }
+  ],
+  "landmarks": [
+    {
+      "id": "canteen",
+      "name": "Canteen",
+      "type": "Canteen",
+      "block_id": "block_7",
+      "location": null
+    },
+    {
+      "id": "boys_hostel",
+      "name": "Boys Hostel",
+      "type": "Hostel",
+      "block_id": null,
+      "location": null
+    },
+    {
+      "id": "girls_hostel",
+      "name": "Girls Hostel",
+      "type": "Hostel",
+      "block_id": null,
+      "location": null
+    },
+    {
+      "id": "library",
+      "name": "Central Library",
+      "type": "Library",
+      "block_id": "block_4",
+      "location": null
+    },
+    {
+      "id": "volleyball_ground",
+      "name": "Volleyball Ground",
+      "type": "Sports Ground",
+      "block_id": null,
+      "location": null
+    },
+    {
+      "id": "cv_raman_hall",
+      "name": "CV Raman Hall",
+      "type": "Hall",
+      "block_id": "block_1",
+      "location": null
+    },
+    {
+      "id": "gate_1",
+      "name": "Gate 1",
+      "type": "Gate",
+      "block_id": null,
+      "location": null
+    },
+    {
+      "id": "gate_2",
+      "name": "Gate 2",
+      "type": "Gate",
+      "block_id": null,
+      "location": null
+    },
+    {
+      "id": "principal_office",
+      "name": "Principal Office",
+      "type": "Office",
+      "block_id": "block_1",
+      "location": null
+    }
+  ]
+}
