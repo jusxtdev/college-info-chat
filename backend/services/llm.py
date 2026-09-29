@@ -40,7 +40,8 @@ def call_gemini_with_retry(prompt: str, max_retries: int = 3, config: types.Gene
 
 def process_chat_request(query: str) -> str:
     # read the college data from the JSON file
-    data_path = Path(__file__).resolve().parents[1] / "data" / "info.json"
+    # data_path = Path(__file__).resolve().parents[1] / "data" / "info.json"
+    data_path = Path(__file__).resolve().parents[1] / "data" / "gecg_data.json"
     with open(data_path, "r") as f:
         college_data = json.load(f)
     college_data_string = json.dumps(college_data, indent=2)
