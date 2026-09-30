@@ -21,7 +21,7 @@ if not api_key:
 client = genai.Client(api_key=api_key)
 
 MODEL = "gemini-3.5-flash-lite"
-RETRYABLE_CODES = (429, 503)
+RETRYABLE_CODES = (429, 503) # codes for which we want to retry after a delay
 
 def call_gemini_with_retry(prompt: str, max_retries: int = 3, config: types.GenerateContentConfig | None = None):
     delay = 2
@@ -37,18 +37,20 @@ def call_gemini_with_retry(prompt: str, max_retries: int = 3, config: types.Gene
             if getattr(e, "code", None) in RETRYABLE_CODES and attempt < max_retries - 1:
                 print(f"High demand detected. Retrying in {delay} seconds...")
                 time.sleep(delay)
-                delay *= 2  # Exponential backoff
+                delay *= 2  # delay increases exponentially 
             else:
                 raise
 
 
 def process_chat_request(query: str) -> str:
     # read the college data from the JSON file
-    data_path = Path(__file__).resolve().parents[1] / "data" / "info.json"
+    # data_path = Path(__file__).resolve().parents[1] / "data" / "info.json"
     # data_path = Path(__file__).resolve().parents[1] / "data" / "gecg_data.json"
-    with open(data_path, "r") as f:
-        college_data = json.load(f)
-    college_data_string = json.dumps(college_data, indent=2)
+    data_path = Path(__file__).resolve().parents[1] / "data" / "gec_toon.txt"
+    # with open(data_path, "r") as f:
+    #     college_data = json.load(f)
+    # college_data_string = json.dumps(college_data, indent=2)
+    college_data_string = data_path.read_text()
 
     # system prompt
     system_prompt = f"""

@@ -1,0 +1,854 @@
+0|
+  name|Dr. Sweta Paresh Dave
+  department|Civil Engineering
+  designation|Principal
+  email|gec-gnagar-dte@gujarat.gov.in
+  department_role[1]|Principal
+1|
+  name|Jignasha Amrutlal Prajapati
+  department|Electrical Engineering
+  designation|Assistant Professor
+  email|jignashaprajapati@gecg28.ac.in
+  department_role[3]|NSS|Member|Alumni|Member|Gymkhana|Member
+2|
+  name|Keerti S. Sharma (listed as Keerti S. Vashishtha in cell tables)
+  department|Instrumentation & Control Engineering
+  designation|Assistant Professor
+  email|keertiv@gecg28.ac.in
+  department_role[2]|NBA Cell|Member|Hostel|Member
+3|
+  name|Isub U. Ajmeri
+  department|Instrumentation & Control Engineering
+  designation|Assistant Professor
+  email|iuajmeri_ic@gecg28.ac.in
+  department_role[1]|Minority Cell|Member
+4|
+  name|Dr. Kapilkumar C. Dave
+  department|Instrumentation & Control Engineering
+  designation|Assistant Professor
+  email|kcdave@gecg28.ac.in
+  department_role[3]|Grievance Cell|Coordinator|RTI Cell|Coordinator|Library|Member
+5|
+  name|Pradeep Navinbhai Patel
+  department|Instrumentation & Control Engineering
+  designation|Assistant Professor
+  email|pradip.patel.ic@gecg28.ac.in
+  department_role[1]|Minority Cell|Member
+6|
+  name|Himanshukumar Dinanath Nayak
+  department|Electronics & Communication Engineering
+  designation|Assistant Professor
+  email|hdnayak@gecg28.ac.in
+  department_role[1]|Placement Cell|Member
+7|
+  name|Nirajkumar Karsandas Chaudhari
+  department|null
+  designation|Assistant Professor
+  email|null
+  department_role|null
+8|
+  name|Dr. Pratikkumar Ashokkumar Barot
+  department|null
+  designation|Assistant Professor
+  email|null
+  department_role|null
+9|
+  name|Niranjan Khushalbhai Prajapati
+  department|null
+  designation|Assistant Professor
+  email|null
+  department_role|null
+10|
+  name|Jitendrakumar Shantilal Dhobi
+  department|null
+  designation|Associate Professor
+  email|null
+  department_role|null
+11|
+  name|Dr. Sanjaykumar Prahladbhai Patel
+  department|Computer Engineering
+  designation|Assistant Professor
+  email|sppate l@gecg28.ac.in
+  department_role[2]|Placement Cell|Coordinator|NBA Cell|Member
+12|
+  name|Sandip Jayantilal Dawda
+  department|null
+  designation|Assistant Professor
+  email|null
+  department_role|null
+13|
+  name|Dr. Tarunkumar Jasubhai Patel
+  department|General Department (English)
+  designation|Assistant Professor
+  email|tarunpatel@gecg28.ac.in
+  department_role[1]|Library|Member
+14|
+  name|Suresh Ramlal Sharda
+  department|null
+  designation|Associate Professor
+  email|null
+  department_role|null
+15|
+  name|Renu Chandsingh Ghanghas
+  department|Metallurgy Engineering
+  designation|Assistant Professor
+  email|renug@gecg28.ac.in
+  department_role[3]|Anti Ragging|Member|Grievance Cell|Member|RTI Cell|Member
+16|
+  name|Kalpeshkumar Prahladbhai Patel
+  department|Mechanical Engineering
+  designation|Assistant Professor
+  email|kalpeshppatel@gecg28.ac.in
+  department_role[2]|Alumni|Member|Student Corner|Member
+17|
+  name|Dr. Mihir Dineshbhai Mehta
+  department|Computer Engineering
+  designation|Assistant Professor
+  email|mihir_mehta@gecg28.ac.in
+  department_role[2]|Admission|Member|Hostel|Coordinator
+18|
+  name|Nrupeshbhai Dhirenbhai Shah
+  department|Computer Engineering
+  designation|Assistant Professor
+  email|nrupesh_shah@gecg28.ac.in
+  department_role[3]|NSS|Member|Placement Cell|Member|Gymkhana|Member
+19|
+  name|Nikhil Kumar Singh
+  department|Computer Engineering
+  designation|Assistant Professor
+  email|nikhil_singh@gecg28.ac.in
+  department_role[1]|Anti Ragging|Member
+20|
+  name|Nehalben Mavajibhai Shyal
+  department|Electronics & Communication Engineering
+  designation|Assistant Professor
+  email|null
+  department_role|null
+21|
+  name|Rajesh Labhubhai Zadfiya
+  department|Instrumentation & Control Engineering
+  designation|Assistant Professor
+  email|rajesh.zadfiya@gecg28.ac.in
+  department_role[1]|Anti Ragging|Member
+22|
+  name|Ravindra Sureshbhai Rana
+  department|Instrumentation & Control Engineering
+  designation|Assistant Professor
+  email|rrana@gecg28.ac.in
+  department_role[1]|Hostel|Member
+23|
+  name|Sanjaykumar Devabhai Mali
+  department|Mechanical Engineering
+  designation|Assistant Professor
+  email|null
+  department_role|null
+24|
+  name|Dr. Dixit Ashokkumar Patel
+  department|Mechanical Engineering
+  designation|Assistant Professor
+  email|dixit.patel@gecg28.ac.in
+  department_role[2]|NSS|Member|Gymkhana|Member
+25|
+  name|Dr. Dineshkumar Dasharathbhai Mevada
+  department|Mechanical Engineering
+  designation|Assistant Professor
+  email|dinesh.mevada@gecg28.ac.in
+  department_role[2]|Grievance Cell|Member|RTI Cell|Member
+26|
+  name|Vinodbhai Natvarlal Patni
+  department|Mechanical Engineering
+  designation|Assistant Professor
+  email|vnpatni@gecg28.ac.in
+  department_role[2]|Admission|Member|Library|Member
+27|
+  name|Rashmiben Hasmukhlal Patel
+  department|Mechanical Engineering
+  designation|Assistant Professor
+  email|rashmimech@gecg28.ac.in
+  department_role[1]|Placement Cell|Member
+28|
+  name|Mihirkumar Baldevbhai Chaudhari
+  department|Electrical Engineering
+  designation|Assistant Professor
+  email|null
+  department_role|null
+29|
+  name|Harshal Mehul Tuvar
+  department|null
+  designation|Assistant Professor
+  email|null
+  department_role|null
+30|
+  name|Dr. Pratikkumar Mahendrabhai Gadhavi
+  department|General Department (Physics)
+  designation|Assistant Professor
+  email|pratikgadhavi@gecg28.ac.in
+  department_role[1]|Anti Ragging|Member
+31|
+  name|Dr. Prakashsinh Laxmanji Vihol
+  department|null
+  designation|Assistant Professor
+  email|null
+  department_role|null
+32|
+  name|Dr. Hemangini Sharadchandra Shukla
+  department|General Department (Maths)
+  designation|Assistant Professor
+  email|hsshukla@gecg28.ac.in
+  department_role[3]|NBA Cell|Member|Hostel|Coordinator|Student Corner|Member
+33|
+  name|Dr. Aswinbhai Karshanbhai Rathod
+  department|General Department (Maths)
+  designation|Assistant Professor
+  email|ashwinrathod@gecg28.ac.in
+  department_role[2]|Anti Ragging|Member|Minority Cell|Member
+34|
+  name|Dr. Shahidmohammed Salauddin Modasiya
+  department|null
+  designation|Assistant Professor
+  email|null
+  department_role|null
+35|
+  name|Dr. Indravadan Bhailalbhai Dave
+  department|Metallurgy Engineering
+  designation|Professor
+  email|ibdave@gecg28.ac.in
+  department_role[1]|NBA Cell|Coordinator
+36|
+  name|Sunil Ishwarbhai Patel
+  department|Metallurgy Engineering
+  designation|Assistant Professor
+  email|sipatel@gecg28.ac.in
+  department_role[3]|Anti Ragging|Member|NSS|Member|Gymkhana|Member
+37|
+  name|Devangkumar Vishnuprasad Mahant
+  department|null
+  designation|Assistant Professor
+  email|null
+  department_role|null
+38|
+  name|Bhavesh Rohitkumar Rana
+  department|null
+  designation|Assistant Professor
+  email|null
+  department_role|null
+39|
+  name|Dr. Chintan Pankajbhai Shah
+  department|Biomedical Engineering
+  designation|Assistant Professor
+  email|cpshah@gecg28.ac.in
+  department_role[1]|Library|Member
+40|
+  name|Shilpa Chandubhai Parmar
+  department|Civil Engineering
+  designation|Assistant Professor
+  email|shilpa_parmar57@gecg28.ac.in
+  department_role[5]|NSS|Member|Placement Cell|Member|SSIP|Member|Gymkhana|Member|Student Corner|Member
+41|
+  name|Tejaskumar Bhikhabhai Sheth
+  department|Electronics & Communication Engineering
+  designation|Associate Professor
+  email|tbsheth@gecg28.ac.in
+  department_role[1]|SSIP|Activity Head
+42|
+  name|Dr. Deepali Harkishanbhai Shah
+  department|null
+  designation|Associate Professor
+  email|null
+  department_role|null
+43|
+  name|Dr. Aarti Narendra Bokade
+  department|Instrumentation & Control Engineering
+  designation|Assistant Professor
+  email|aarti.bokade@gecg28.ac.in
+  department_role[1]|Placement Cell|Member
+44|
+  name|Bijal Utsav Gadhia
+  department|Computer Engineering
+  designation|Assistant Professor
+  email|bijal.gadhia@gecg28.ac.in
+  department_role[1]|Hostel|Coordinator
+45|
+  name|Dhawal Punamchand Khem
+  department|Computer Engineering
+  designation|Assistant Professor
+  email|khemdhawal@gecg28.ac.in
+  department_role[2]|Alumni|Member|Minority Cell|Member
+46|
+  name|Chetan Maganbhai Kapadiya
+  department|Information Technology
+  designation|Assistant Professor
+  email|cmkapadiya@gecg28.ac.in
+  department_role[3]|Placement Cell|Member|SSIP|Member|Alumni|Member
+47|
+  name|Sandeepkumar Jawaharlal Rajput
+  department|Electronics & Communication Engineering
+  designation|Assistant Professor
+  email|sandeeprajput@gecg28.ac.in
+  department_role[1]|Hostel|Member
+48|
+  name|Nisha Kantibhai Prajapati
+  department|Electronics & Communication Engineering
+  designation|Assistant Professor
+  email|nisha@gecg28.ac.in
+  department_role[3]|Anti Ragging|Member|Women Development Cell|Member|Admission|Member
+49|
+  name|Ujjval Rameshchandra Dave
+  department|Electronics & Communication Engineering
+  designation|Assistant Professor
+  email|ujjval@gecg28.ac.in
+  department_role[3]|NSS|Member|Gymkhana|Member|Admission|Member
+50|
+  name|Maulindu P. Patel
+  department|null
+  designation|Assistant Professor
+  email|null
+  department_role|null
+51|
+  name|Hetal Kamaleshbhai Mehta
+  department|null
+  designation|Assistant Professor
+  email|null
+  department_role|null
+52|
+  name|Dr. Vijaykumar Pravinbhai Dave
+  department|Biomedical Engineering
+  designation|Assistant Professor
+  email|null
+  department_role[1]|Principal Investigator| GUJCOST-sponsored research project
+53|
+  name|Pooja Chandrakantbhai Gajjar
+  department|null
+  designation|Assistant Professor
+  email|null
+  department_role|null
+54|
+  name|Hina Kalpesh Patel
+  department|Electronics & Communication Engineering
+  designation|Assistant Professor
+  email|hina@gecg28.ac.in
+  department_role[1]|Alumni|Member
+55|
+  name|Dr. Pinal Jayantilal Patel
+  department|null
+  designation|Assistant Professor
+  email|null
+  department_role|null
+56|
+  name|Dr. Komal Dineshbhai Anadkat
+  department|Information Technology
+  designation|Assistant Professor
+  email|komalanadkat@gecg28.ac.in
+  department_role[2]|NBA Cell|Member|Student Corner|Coordinator
+57|
+  name|Mahendra Narottamdas Patel
+  department|null
+  designation|Assistant Professor
+  email|null
+  department_role|null
+58|
+  name|Dr. Vashishtha Jayantibhai Patel
+  department|General Department (English)
+  designation|Assistant Professor
+  email|vashishtha@gecg28.ac.in
+  department_role[1]|NBA Cell|Member
+59|
+  name|Dr. Sunilkumar Prahladbhai Agrawal
+  department|Electrical Engineering
+  designation|Assistant Professor
+  email|sunilagrawal@gecg28.ac.in
+  department_role[2]|Grievance Cell|Member|RTI Cell|Member
+60|
+  name|Navdeepsinh Virsangbhai Limbad
+  department|Biomedical Engineering
+  designation|Assistant Professor
+  email|nvlimbad@gecg28.ac.in
+  department_role[1]|Minority Cell|Member
+61|
+  name|Manan Mukeshkumar Nanavati
+  department|Biomedical Engineering
+  designation|Assistant Professor
+  email|mmnanavati@gecg28.ac.in
+  department_role[3]|Grievance Cell|Member|RTI Cell|Member|Student Corner|Member
+62|
+  name|Suresh Kumar Bhikhabhai Patel
+  department|Information Technology
+  designation|Assistant Professor
+  email|sbpatelit@gecg28.ac.in
+  department_role[1]|Admission|Coordinator
+63|
+  name|Priyank Rameshbhai Bhavsar
+  department|Electrical Engineering
+  designation|Assistant Professor
+  email|prbhavsar@gecg28.ac.in
+  department_role[2]|Placement Cell|Member|Student Corner|Member
+64|
+  name|Niravkumar Dahyabhai Patel
+  department|Electrical Engineering
+  designation|Assistant Professor
+  email|niravdpatel@gecg28.ac.in
+  department_role[1]|Hostel|Member
+65|
+  name|Hetal Bhupendrasinh Chauhan
+  department|Information Technology
+  designation|Assistant Professor
+  email|null
+  department_role|null
+66|
+  name|Jeel Jitendra Shah
+  department|Instrumentation & Control Engineering
+  designation|Assistant Professor
+  email|jheelshah@gecg28.ac.in
+  department_role[2]|Alumni|Member|Admission|Member
+67|
+  name|Ashokkumar Lakhabhai Vaghamshi
+  department|Electrical Engineering
+  designation|Assistant Professor
+  email|ashokvaghamshi@gecg28.ac.in
+  department_role[2]|SSIP|Member|NBA Cell|Member
+68|
+  name|Jignesh Kanubhai Bhavsar
+  department|null
+  designation|Assistant Professor
+  email|null
+  department_role|null
+69|
+  name|Nisarg Kuntalkumar Bhatt
+  department|Electronics & Communication Engineering
+  designation|Assistant Professor
+  email|nisarg@gecg28.ac.in
+  department_role[1]|Student Corner|Member
+70|
+  name|Dr. Narendra Arora
+  department|null
+  designation|Professor
+  email|null
+  department_role|null
+71|
+  name|Mukesh Bhimjibhai Hingu
+  department|Instrumentation & Control Engineering
+  designation|Assistant Professor
+  email|hingumukesh@gecg28.ac.in
+  department_role[1]|Anti Ragging|Member
+72|
+  name|Hemenkumar Hareshbhai Thakar
+  department|Metallurgy Engineering
+  designation|Assistant Professor
+  email|hementhakar@gecg28.ac.in
+  department_role[3]|Placement Cell|Member|Alumni|Member|Library|Member
+73|
+  name|Dr. Dhaval Arvindbhai Parikh
+  department|Computer Engineering / Information Technology
+  designation|Professor
+  email|null
+  department_role[1]|Head| CE/IT (per a 2021 placement report)
+74|
+  name|Dr. Avani Arvind Vithalani
+  department|null
+  designation|Assistant Professor
+  email|null
+  department_role|null
+75|
+  name|Dr. Niralben Jashavantbhai Modi
+  department|General Department (Chemistry)
+  designation|Assistant Professor
+  email|niralmodi@gecg28.ac.in
+  department_role[1]|Student Corner|Member
+76|
+  name|Ashvinkumar Rameshbhai Prajapati
+  department|null
+  designation|Assistant Professor
+  email|null
+  department_role|null
+77|
+  name|Dr. Hemani Yogesh Shah
+  department|Computer Engineering
+  designation|Assistant Professor
+  email|hemanishah@gecg28.ac.in
+  department_role[2]|Women Development Cell|Member|Library|Member
+78|
+  name|Nitinkumar Mukeshbhai Raval
+  department|Computer Engineering
+  designation|Assistant Professor
+  email|nitinraval@gecg28.ac.in
+  department_role[2]|Grievance Cell|Member|RTI Cell|Member
+79|
+  name|Viral Ratilal Patel
+  department|Computer Engineering
+  designation|Assistant Professor
+  email|viralpatel@gecg28.ac.in
+  department_role[3]|Anti Ragging|Member|Student Corner|Member|Minority Cell|Member
+80|
+  name|Yogendra Pravinbhai Tank
+  department|null
+  designation|Assistant Professor
+  email|null
+  department_role|null
+81|
+  name|Ravi Chandulal Butani
+  department|Electronics & Communication Engineering
+  designation|Assistant Professor
+  email|ravi@gecg28.ac.in
+  department_role[4]|Grievance Cell|Member|RTI Cell|Member|NSS|Member|Gymkhana|Member
+82|
+  name|Neetirajsinh Jaydeepsinh Chhasatia
+  department|Electronics & Communication Engineering
+  designation|Assistant Professor
+  email|neetirajsinh@gecg28.ac.in
+  department_role[1]|Admission|Member
+83|
+  name|Rajat Girjashankar Pandey
+  department|Electronics & Communication Engineering
+  designation|Assistant Professor
+  email|rajat@gecg28.ac.in
+  department_role[1]|Library|Member
+84|
+  name|Dr. Purvi Amrutlal Koringa
+  department|Electronics & Communication Engineering
+  designation|Assistant Professor
+  email|purvi@gecg28.ac.in
+  department_role[1]|Anti Ragging|Member
+85|
+  name|Manish Rajendrabhai Jani
+  department|Instrumentation & Control Engineering
+  designation|Associate Professor
+  email|manishrjani@gecg28.ac.in
+  department_role[2]|Alumni|Activity Head|Library|Activity Head
+86|
+  name|Dr. Kalpeshkumar Bharatbhai Pathak
+  department|null
+  designation|Assistant Professor
+  email|null
+  department_role[1]|Gymkhana Coordinator (per a 2021 report)
+87|
+  name|Dr. Shalini Ashutosh Rankawat
+  department|null
+  designation|Associate Professor
+  email|null
+  department_role|null
+88|
+  name|Ketan Kishorkumar Acharya
+  department|Instrumentation & Control Engineering
+  designation|Assistant Professor
+  email|ketan_acharya@gecg28.ac.in
+  department_role[4]|NSS|Member|SSIP|Member|Gymkhana|Member|Student Corner|Member
+89|
+  name|Dr. Minal Sanjay Dani
+  department|null
+  designation|Assistant Professor
+  email|null
+  department_role|null
+90|
+  name|Dr. Mitulkumar Baldevdas Patel
+  department|null
+  designation|Assistant Professor
+  email|null
+  department_role|null
+91|
+  name|Ghanshyam Dalsukhlal Parmar
+  department|Biomedical Engineering
+  designation|Assistant Professor
+  email|ghanshyam@gecg28.ac.in
+  department_role[1]|NBA Cell|Member
+92|
+  name|Piyush Vrijlal Patel
+  department|Biomedical Engineering
+  designation|Assistant Professor
+  email|pvpatel@gecg28.ac.in
+  department_role[4]|NSS|Member|SSIP|Member|NBA Cell|Member|Gymkhana|Member
+93|
+  name|Dr. Devendrakumar Hirabhai Patel
+  department|null
+  designation|Assistant Professor
+  email|null
+  department_role|null
+94|
+  name|Suhasbhai Haribhai Patel
+  department|Electronics & Communication Engineering
+  designation|Assistant Professor
+  email|suhas@gecg28.ac.in
+  department_role[1]|SSIP|Member
+95|
+  name|Nileshkumar Maheshbhai Bankar
+  department|Electronics & Communication Engineering
+  designation|Assistant Professor
+  email|nilesh.bankar@gecg28.ac.in
+  department_role[1]|Minority Cell|Coordinator
+96|
+  name|Amarkumar Dayaram Rathod
+  department|Instrumentation & Control Engineering
+  designation|Associate Professor
+  email|adrathod@gecg28.ac.in
+  department_role[1]|Anti Ragging|Activity Head
+97|
+  name|Niyat V. Patel
+  department|null
+  designation|Assistant Professor
+  email|null
+  department_role|null
+98|
+  name|Dr. Namrata Setu Shroff
+  department|null
+  designation|Assistant Professor
+  email|null
+  department_role|null
+99|
+  name|Dr. Harshadkumar Hamirbhai Jadav
+  department|null
+  designation|Assistant Professor
+  email|null
+  department_role|null
+100|
+  name|Dr. Purvesh Kamleshkumar Nanavaty
+  department|Metallurgy Engineering
+  designation|Assistant Professor
+  email|pknanavati@gecg28.ac.in
+  department_role[3]|SSIP|Member|NBA Cell|Member|Hostel|Coordinator
+101|
+  name|Vijaykumar Natvarlal Modi
+  department|Mechanical Engineering
+  designation|Assistant Professor
+  email|vnmodi@gecg28.ac.in
+  department_role[2]|SSIP|Member|NBA Cell|Member
+102|
+  name|Dr. Ujas Deven Pandya
+  department|null
+  designation|Assistant Professor
+  email|null
+  department_role|null
+103|
+  name|Ajaykumar Babulal Patel
+  department|null
+  designation|Assistant Professor
+  email|null
+  department_role|null
+104|
+  name|Dr. Mahendrabhai Amrutbhai Patel
+  department|null
+  designation|Assistant Professor
+  email|null
+  department_role|null
+105|
+  name|Dr. Mohitkumar Ishvarlal Bosmia
+  department|null
+  designation|Assistant Professor
+  email|null
+  department_role|null
+106|
+  name|Dr. Daksha Manojbhai Diwan
+  department|null
+  designation|Assistant Professor
+  email|null
+  department_role|null
+107|
+  name|Dr. Niravkumar Dasharathbhai Patel
+  department|General Department (Maths)
+  designation|Assistant Professor
+  email|ndpatel@gecg28.ac.in
+  department_role[1]|NBA Cell|Member
+108|
+  name|Dr. Yaminiben Mansukhlal Parmar
+  department|General Department (Maths)
+  designation|Assistant Professor
+  email|ymp.maths@gecg28.ac.in
+  department_role|null
+109|
+  name|Dr. Jignesh Madhusudanbhai Panchal
+  department|General Department (Physics)
+  designation|Assistant Professor
+  email|jignesh.phy11@gecg28.ac.in
+  department_role[3]|NSS|Member|SSIP|Member|Gymkhana|Member
+110|
+  name|Kalpeshkumar Karashanbhai Patel
+  department|null
+  designation|Assistant Professor
+  email|null
+  department_role|null
+111|
+  name|Hemendra Arjunbhai Miskin
+  department|null
+  designation|Associate Professor
+  email|null
+  department_role|null
+112|
+  name|Dr. Daulat Gopallal Sharma
+  department|Metallurgy Engineering
+  designation|Assistant Professor
+  email|dgsharma@gecg28.ac.in
+  department_role[2]|NSS|Activity Head|Gymkhana|Activity Head
+113|
+  name|Priyank Ketankumar Shah
+  department|Biomedical Engineering
+  designation|Assistant Professor
+  email|priyankbm@gecg28.ac.in
+  department_role[1]|Admission|Member
+114|
+  name|Rutu Pareshbhai Nayak
+  department|Biomedical Engineering
+  designation|Assistant Professor
+  email|nayak.rutu@gecg28.ac.in
+  department_role[3]|Anti Ragging|Member|Women Development Cell|Member|Alumni|Member
+115|
+  name|Anamika Khushalbhai Mittal
+  department|null
+  designation|Assistant Professor
+  email|null
+  department_role|null
+116|
+  name|Prashant Ramjibhai Chaudhari
+  department|Information Technology
+  designation|Assistant Professor
+  email|prashant.prc@gecg28.ac.in
+  department_role[1]|Admission|Member
+117|
+  name|Manishaben Haribhai Valera
+  department|null
+  designation|Assistant Professor
+  email|null
+  department_role|null
+118|
+  name|Vanvirsinh J. Chauhan
+  department|Mechanical Engineering
+  designation|null
+  email|vjchauhan@gecg28.ac.in
+  department_role[2]|Anti Ragging|Coordinator|Hostel Rector
+119|
+  name|Alpesh M. Patel
+  department|Electronics & Communication Engineering
+  designation|null
+  email|alpeshpatel@gecg28.ac.in
+  department_role[2]|NSS|Coordinator|Gymkhana|Coordinator
+120|
+  name|Sandipkumar S. Patel
+  department|Mechanical Engineering
+  designation|null
+  email|sspatel@gecg28.ac.in
+  department_role[3]|NSS|Activity Head|Gymkhana|Activity Head|Admission|Coordinator
+121|
+  name|Kirit V. Patel
+  department|Electronics & Communication Engineering
+  designation|null
+  email|kirit@gecg28.ac.in
+  department_role[1]|Placement Cell|Coordinator
+122|
+  name|Mitul Khandhedia
+  department|Biomedical Engineering
+  designation|null
+  email|mitul.khandhedia@gecg28.ac.in
+  department_role[1]|Placement Cell|Member
+123|
+  name|Khushbu P. Patel
+  department|Robotics and Automation Engineering
+  designation|null
+  email|khushbupatel@gecg28.ac.in
+  department_role[2]|Placement Cell|Member|SSIP|Member
+124|
+  name|Harikrushna B. Jethva
+  department|Computer Engineering
+  designation|null
+  email|hbjethva@gecg28.ac.in
+  department_role[1]|SSIP|Activity Head
+125|
+  name|Dr. Kunal Ashvinkumar Bhatt
+  department|Electrical Engineering
+  designation|null
+  email|kunalbhatt@gecg28.ac.in
+  department_role[2]|SSIP|Coordinator|Department Coordinator| Electrical Engineering
+126|
+  name|Rupal P. Vyasa
+  department|Mechanical Engineering
+  designation|null
+  email|rpvyasa@gecg28.ac.in
+  department_role[1]|Women Development Cell|Coordinator
+127|
+  name|Rahul D. Mehta
+  department|Electronics & Communication Engineering
+  designation|null
+  email|rahulmehta@gecg28.ac.in
+  department_role[3]|NBA Cell|Member|Alumni|Coordinator|Student Corner|Coordinator
+128|
+  name|Ghanshyam M. Savaliya
+  department|Civil Engineering
+  designation|null
+  email|gmsavaliya@gecg28.ac.in
+  department_role[1]|NBA Cell|Member
+129|
+  name|Narendrakumar Amrutlal Patel
+  department|Mechanical Engineering
+  designation|null
+  email|napatel@gecg28.ac.in
+  department_role[1]|NBA Cell|Member
+130|
+  name|Sandip C. Rathod
+  department|Civil Engineering
+  designation|null
+  email|scrathod@gecg28.ac.in
+  department_role[1]|Alumni|Coordinator
+131|
+  name|Chirag N. Patel
+  department|Civil Engineering
+  designation|null
+  email|cnpatel@gecg28.ac.in
+  department_role[1]|Library|Coordinator
+132|
+  name|M. R. Mali
+  department|Robotics and Automation Engineering
+  designation|null
+  email|mrmali@gecg28.ac.in
+  department_role[1]|Admission|Coordinator
+133|
+  name|Darshana K. Dave
+  department|Robotics and Automation Engineering
+  designation|null
+  email|darshana_dave@gecg28.ac.in
+  department_role[1]|Student Corner|Member
+134|
+  name|Dr. Ashok R. Patel
+  department|General Department (Maths)
+  designation|Head of Department
+  email|arpatel@gecg28.ac.in
+  department_role[1]|Head of Department| General Department
+135|
+  name|Dr. D. A. Patel
+  department|General Department (Maths)
+  designation|Associate Professor
+  email|dapatel@gecg28.ac.in
+  department_role|null
+136|
+  name|Dr. Fenny J. Narsingani
+  department|General Department (Maths)
+  designation|Associate Professor
+  email|fjnarsingani@gecg28.ac.in
+  department_role|null
+blocks[8]{id|name|description}|
+  block_1|Administrative Block|null
+  block_2|EC & IC Department Block|null
+  block_3|General Department Block|null
+  block_4|Library Block|null
+  block_5|CE & IT Department Block|null
+  block_6|Workshop|null
+  block_7|Canteen Block|null
+  block_8|Biomedical & Metallurgy Department Block|null
+departments[12]{id|name|short_name|HOD|block_id}|
+  administrative|Administrative Department|Administrative|null|block_1
+  biomedical|Biomedical Engineering|BME|Dr. Ghanshyam Parmar|block_8
+  computer|Computer Engineering|CE|Dr. Dhaval Parikh|block_5
+  electronics_communication|Electronics & Communication Engineering|EC|Dr. Tejas B. Sheth|block_2
+  general|General Department|General|Dr. Ashok R Patel|block_3
+  information_technology|Information Technology|IT|Dr. Komal Anadkat|block_5
+  instrumentation_control|Instrumentation & Control Engineering|IC|Prof. Manish Jani|block_2
+  metallurgy|Metallurgy Engineering|Metallurgy|Dr. Indravadan B. Dave|block_8
+  mechanical|Mechanical Engineering|ME|Dr. Rupal P Vyasa|null
+  civil|Civil Engineering|Civil|Dr. Narendra Arora|null
+  robotics_automation|Robotics and Automation Engineering|RA|Dr. M J Vora|null
+  electrical|Electrical Engineering|EE|Dr. Kunal Ashvinkumar Bhatt|null
+landmarks[9]{id|name|type|block_id|location}|
+  canteen|Canteen|Canteen|block_7|null
+  boys_hostel|Boys Hostel|Hostel|null|null
+  girls_hostel|Girls Hostel|Hostel|null|null
+  library|Central Library|Library|block_4|null
+  volleyball_ground|Volleyball Ground|Sports Ground|null|null
+  cv_raman_hall|CV Raman Hall|Hall|block_1|null
+  gate_1|Gate 1|Gate|null|null
+  gate_2|Gate 2|Gate|null|null
+  principal_office|Principal Office|Office|block_1|null

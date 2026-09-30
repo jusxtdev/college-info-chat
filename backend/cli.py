@@ -13,7 +13,6 @@ logging.getLogger("google_genai").setLevel(logging.ERROR)
 
 console = Console()
 
-
 def ask(query: str) -> str:
     with console.status("[bold green]thinking", spinner="dots"):
         answer = process_chat_request(query).removeprefix(ANSWER_PREFIX)
