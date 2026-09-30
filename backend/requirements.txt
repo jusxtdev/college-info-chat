@@ -1,0 +1,14 @@
+# web api
+fastapi==0.142.0
+uvicorn==0.54.0
+pydantic==2.13.5
+
+# llm providers
+google-genai==2.25.0
+groq==1.7.0
+
+# config
+python-dotenv==1.2.3
+
+# cli
+rich==15.0.0
