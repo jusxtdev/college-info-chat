@@ -1,4 +1,5 @@
 import logging
+import os
 
 from rich.console import Console
 from rich.markdown import Markdown
@@ -24,6 +25,7 @@ def print_answer(answer: str):
 
 
 def main():
+    os.system("cls" if os.name == "nt" else "clear")
     console.print("[bold]College Info Bot[/bold]")
     console.print("[dim]Type 'exit' to quit.[/dim]\n")
 
