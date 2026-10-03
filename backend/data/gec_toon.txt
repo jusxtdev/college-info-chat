@@ -727,7 +727,7 @@
 121|
   name|Kirit V. Patel
   department|Electronics & Communication Engineering
-  designation|null
+  designation|null  
   email|kirit@gecg28.ac.in
   department_role[1]|Placement Cell|Coordinator
 122|
@@ -852,3 +852,55 @@ landmarks[9]{id|name|type|block_id|location}|
   gate_1|Gate 1|Gate|null|null
   gate_2|Gate 2|Gate|null|null
   principal_office|Principal Office|Office|block_1|null
+
+
+institution|Government Engineering College| Gandhinagar (GECG)
+url|https|//www.gecg28.ac.in/cells/4
+placement_overview|
+  academic_year_2023_2024|
+    total_intake_2020_21|570
+    total_admitted_2020_21|433
+    graduated_students|556
+    placed_students|204
+    placement_rate_percentage|39.23
+    students_higher_studies|36
+    median_salary_lpa|3.39
+  general_metrics|
+    highest_package_lpa|16
+    average_package_lpa|3.67
+    median_package_lpa|3.5
+branch_wise_placement_statistics_2023_2024[6]|
+  -
+    branch|BE Metallurgy Engineering
+    placement_rate_percentage|100
+    median_package_lpa|4.3
+  -
+    branch|BE Biomedical Engineering
+    placement_rate_percentage|76.67
+  -
+    branch|BE Instrumentation and Control Engineering
+    placement_rate_percentage|62.9
+  -
+    branch|BE Information Technology
+    placement_rate_percentage|53.03
+    placed_students_count|23
+    median_package_lpa|3.78
+  -
+    branch|BE Computer Engineering
+    placement_rate_percentage|35.56
+    placed_students_count|31
+  -
+    branch|BE Electronics and Communication Engineering
+    placement_rate_percentage|26.32
+salary_distribution[5]{range_lpa|candidates_count|share_percentage}|
+  15.0 - 25.0|1|1.75
+  10.0 - 15.0|1|1.75
+  6.0 - 10.0|4|7.02
+  3.0 - 6.0|32|56.14
+  0.0 - 3.0|19|33.33
+participating_recruiters[13]|Tata Consultancy Services (TCS)|Reliance Industries Limited (RIL)|eInfochips|Tatvasoft|Bacancy Technology|DeltaX|Roima Intelligence|Tatvic Digital Analytics|Meditab|Veloxcore|Wipro|Silver Touch Technologies|Capgemini
+placement_cell_activities[5]|Participation in GTU/VGEC Campus Placement Fairs|Career Motivation Webinars|Soft Skills Training Programs|Mock Interview Preparations|Pre-Placement Talks and Skill Testing
+
+College Information
+गांधीनगर - विजापुर मार्ग, Sector 28 GIDC, Sector 28, Gandhinagar, Gujarat 382028
+clg website -https://www.gecg28.ac.in/

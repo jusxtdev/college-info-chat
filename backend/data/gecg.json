@@ -1,0 +1,1646 @@
+{
+  "institution": "Government Engineering College, Gandhinagar (GECG)",
+  "website": "https://www.gecg28.ac.in/",
+  "address": "गांधीनगर - विजापुर मार्ग, Sector 28 GIDC, Sector 28, Gandhinagar, Gujarat 382028",
+  "source_url": "https://www.gecg28.ac.in/cells/4",
+  "faculty_and_staff": [
+    {
+      "id": 0,
+      "name": "Dr. Sweta Paresh Dave",
+      "department": "Civil Engineering",
+      "designation": "Principal",
+      "email": "gec-gnagar-dte@gujarat.gov.in",
+      "department_roles": [
+        "Principal"
+      ]
+    },
+    {
+      "id": 1,
+      "name": "Jignasha Amrutlal Prajapati",
+      "department": "Electrical Engineering",
+      "designation": "Assistant Professor",
+      "email": "jignashaprajapati@gecg28.ac.in",
+      "department_roles": [
+        "NSS Member",
+        "Alumni Member",
+        "Gymkhana Member"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Keerti S. Sharma (listed as Keerti S. Vashishtha in cell tables)",
+      "department": "Instrumentation & Control Engineering",
+      "designation": "Assistant Professor",
+      "email": "keertiv@gecg28.ac.in",
+      "department_roles": [
+        "NBA Cell Member",
+        "Hostel Member"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Isub U. Ajmeri",
+      "department": "Instrumentation & Control Engineering",
+      "designation": "Assistant Professor",
+      "email": "iuajmeri_ic@gecg28.ac.in",
+      "department_roles": [
+        "Minority Cell Member"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Dr. Kapilkumar C. Dave",
+      "department": "Instrumentation & Control Engineering",
+      "designation": "Assistant Professor",
+      "email": "kcdave@gecg28.ac.in",
+      "department_roles": [
+        "Grievance Cell Coordinator",
+        "RTI Cell Coordinator",
+        "Library Member"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Pradeep Navinbhai Patel",
+      "department": "Instrumentation & Control Engineering",
+      "designation": "Assistant Professor",
+      "email": "pradip.patel.ic@gecg28.ac.in",
+      "department_roles": [
+        "Minority Cell Member"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Himanshukumar Dinanath Nayak",
+      "department": "Electronics & Communication Engineering",
+      "designation": "Assistant Professor",
+      "email": "hdnayak@gecg28.ac.in",
+      "department_roles": [
+        "Placement Cell Member"
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Nirajkumar Karsandas Chaudhari",
+      "department": null,
+      "designation": "Assistant Professor",
+      "email": null,
+      "department_roles": null
+    },
+    {
+      "id": 8,
+      "name": "Dr. Pratikkumar Ashokkumar Barot",
+      "department": null,
+      "designation": "Assistant Professor",
+      "email": null,
+      "department_roles": null
+    },
+    {
+      "id": 9,
+      "name": "Niranjan Khushalbhai Prajapati",
+      "department": null,
+      "designation": "Assistant Professor",
+      "email": null,
+      "department_roles": null
+    },
+    {
+      "id": 10,
+      "name": "Jitendrakumar Shantilal Dhobi",
+      "department": null,
+      "designation": "Associate Professor",
+      "email": null,
+      "department_roles": null
+    },
+    {
+      "id": 11,
+      "name": "Dr. Sanjaykumar Prahladbhai Patel",
+      "department": "Computer Engineering",
+      "designation": "Assistant Professor",
+      "email": "sppatel@gecg28.ac.in",
+      "department_roles": [
+        "Placement Cell Coordinator",
+        "NBA Cell Member"
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Sandip Jayantilal Dawda",
+      "department": null,
+      "designation": "Assistant Professor",
+      "email": null,
+      "department_roles": null
+    },
+    {
+      "id": 13,
+      "name": "Dr. Tarunkumar Jasubhai Patel",
+      "department": "General Department (English)",
+      "designation": "Assistant Professor",
+      "email": "tarunpatel@gecg28.ac.in",
+      "department_roles": [
+        "Library Member"
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Suresh Ramlal Sharda",
+      "department": null,
+      "designation": "Associate Professor",
+      "email": null,
+      "department_roles": null
+    },
+    {
+      "id": 15,
+      "name": "Renu Chandsingh Ghanghas",
+      "department": "Metallurgy Engineering",
+      "designation": "Assistant Professor",
+      "email": "renug@gecg28.ac.in",
+      "department_roles": [
+        "Anti Ragging Member",
+        "Grievance Cell Member",
+        "RTI Cell Member"
+      ]
+    },
+    {
+      "id": 16,
+      "name": "Kalpeshkumar Prahladbhai Patel",
+      "department": "Mechanical Engineering",
+      "designation": "Assistant Professor",
+      "email": "kalpeshppatel@gecg28.ac.in",
+      "department_roles": [
+        "Alumni Member",
+        "Student Corner Member"
+      ]
+    },
+    {
+      "id": 17,
+      "name": "Dr. Mihir Dineshbhai Mehta",
+      "department": "Computer Engineering",
+      "designation": "Assistant Professor",
+      "email": "mihir_mehta@gecg28.ac.in",
+      "department_roles": [
+        "Admission Member",
+        "Hostel Coordinator"
+      ]
+    },
+    {
+      "id": 18,
+      "name": "Nrupeshbhai Dhirenbhai Shah",
+      "department": "Computer Engineering",
+      "designation": "Assistant Professor",
+      "email": "nrupesh_shah@gecg28.ac.in",
+      "department_roles": [
+        "NSS Member",
+        "Placement Cell Member",
+        "Gymkhana Member"
+      ]
+    },
+    {
+      "id": 19,
+      "name": "Nikhil Kumar Singh",
+      "department": "Computer Engineering",
+      "designation": "Assistant Professor",
+      "email": "nikhil_singh@gecg28.ac.in",
+      "department_roles": [
+        "Anti Ragging Member"
+      ]
+    },
+    {
+      "id": 20,
+      "name": "Nehalben Mavajibhai Shyal",
+      "department": "Electronics & Communication Engineering",
+      "designation": "Assistant Professor",
+      "email": null,
+      "department_roles": null
+    },
+    {
+      "id": 21,
+      "name": "Rajesh Labhubhai Zadfiya",
+      "department": "Instrumentation & Control Engineering",
+      "designation": "Assistant Professor",
+      "email": "rajesh.zadfiya@gecg28.ac.in",
+      "department_roles": [
+        "Anti Ragging Member"
+      ]
+    },
+    {
+      "id": 22,
+      "name": "Ravindra Sureshbhai Rana",
+      "department": "Instrumentation & Control Engineering",
+      "designation": "Assistant Professor",
+      "email": "rrana@gecg28.ac.in",
+      "department_roles": [
+        "Hostel Member"
+      ]
+    },
+    {
+      "id": 23,
+      "name": "Sanjaykumar Devabhai Mali",
+      "department": "Mechanical Engineering",
+      "designation": "Assistant Professor",
+      "email": null,
+      "department_roles": null
+    },
+    {
+      "id": 24,
+      "name": "Dr. Dixit Ashokkumar Patel",
+      "department": "Mechanical Engineering",
+      "designation": "Assistant Professor",
+      "email": "dixit.patel@gecg28.ac.in",
+      "department_roles": [
+        "NSS Member",
+        "Gymkhana Member"
+      ]
+    },
+    {
+      "id": 25,
+      "name": "Dr. Dineshkumar Dasharathbhai Mevada",
+      "department": "Mechanical Engineering",
+      "designation": "Assistant Professor",
+      "email": "dinesh.mevada@gecg28.ac.in",
+      "department_roles": [
+        "Grievance Cell Member",
+        "RTI Cell Member"
+      ]
+    },
+    {
+      "id": 26,
+      "name": "Vinodbhai Natvarlal Patni",
+      "department": "Mechanical Engineering",
+      "designation": "Assistant Professor",
+      "email": "vnpatni@gecg28.ac.in",
+      "department_roles": [
+        "Admission Member",
+        "Library Member"
+      ]
+    },
+    {
+      "id": 27,
+      "name": "Rashmiben Hasmukhlal Patel",
+      "department": "Mechanical Engineering",
+      "designation": "Assistant Professor",
+      "email": "rashmimech@gecg28.ac.in",
+      "department_roles": [
+        "Placement Cell Member"
+      ]
+    },
+    {
+      "id": 28,
+      "name": "Mihirkumar Baldevbhai Chaudhari",
+      "department": "Electrical Engineering",
+      "designation": "Assistant Professor",
+      "email": null,
+      "department_roles": null
+    },
+    {
+      "id": 29,
+      "name": "Harshal Mehul Tuvar",
+      "department": null,
+      "designation": "Assistant Professor",
+      "email": null,
+      "department_roles": null
+    },
+    {
+      "id": 30,
+      "name": "Dr. Pratikkumar Mahendrabhai Gadhavi",
+      "department": "General Department (Physics)",
+      "designation": "Assistant Professor",
+      "email": "pratikgadhavi@gecg28.ac.in",
+      "department_roles": [
+        "Anti Ragging Member"
+      ]
+    },
+    {
+      "id": 31,
+      "name": "Dr. Prakashsinh Laxmanji Vihol",
+      "department": null,
+      "designation": "Assistant Professor",
+      "email": null,
+      "department_roles": null
+    },
+    {
+      "id": 32,
+      "name": "Dr. Hemangini Sharadchandra Shukla",
+      "department": "General Department (Maths)",
+      "designation": "Assistant Professor",
+      "email": "hsshukla@gecg28.ac.in",
+      "department_roles": [
+        "NBA Cell Member",
+        "Hostel Coordinator",
+        "Student Corner Member"
+      ]
+    },
+    {
+      "id": 33,
+      "name": "Dr. Aswinbhai Karshanbhai Rathod",
+      "department": "General Department (Maths)",
+      "designation": "Assistant Professor",
+      "email": "ashwinrathod@gecg28.ac.in",
+      "department_roles": [
+        "Anti Ragging Member",
+        "Minority Cell Member"
+      ]
+    },
+    {
+      "id": 34,
+      "name": "Dr. Shahidmohammed Salauddin Modasiya",
+      "department": null,
+      "designation": "Assistant Professor",
+      "email": null,
+      "department_roles": null
+    },
+    {
+      "id": 35,
+      "name": "Dr. Indravadan Bhailalbhai Dave",
+      "department": "Metallurgy Engineering",
+      "designation": "Professor",
+      "email": "ibdave@gecg28.ac.in",
+      "department_roles": [
+        "NBA Cell Coordinator"
+      ]
+    },
+    {
+      "id": 36,
+      "name": "Sunil Ishwarbhai Patel",
+      "department": "Metallurgy Engineering",
+      "designation": "Assistant Professor",
+      "email": "sipatel@gecg28.ac.in",
+      "department_roles": [
+        "Anti Ragging Member",
+        "NSS Member",
+        "Gymkhana Member"
+      ]
+    },
+    {
+      "id": 37,
+      "name": "Devangkumar Vishnuprasad Mahant",
+      "department": null,
+      "designation": "Assistant Professor",
+      "email": null,
+      "department_roles": null
+    },
+    {
+      "id": 38,
+      "name": "Bhavesh Rohitkumar Rana",
+      "department": null,
+      "designation": "Assistant Professor",
+      "email": null,
+      "department_roles": null
+    },
+    {
+      "id": 39,
+      "name": "Dr. Chintan Pankajbhai Shah",
+      "department": "Biomedical Engineering",
+      "designation": "Assistant Professor",
+      "email": "cpshah@gecg28.ac.in",
+      "department_roles": [
+        "Library Member"
+      ]
+    },
+    {
+      "id": 40,
+      "name": "Shilpa Chandubhai Parmar",
+      "department": "Civil Engineering",
+      "designation": "Assistant Professor",
+      "email": "shilpa_parmar57@gecg28.ac.in",
+      "department_roles": [
+        "NSS Member",
+        "Placement Cell Member",
+        "SSIP Member",
+        "Gymkhana Member",
+        "Student Corner Member"
+      ]
+    },
+    {
+      "id": 41,
+      "name": "Tejaskumar Bhikhabhai Sheth",
+      "department": "Electronics & Communication Engineering",
+      "designation": "Associate Professor",
+      "email": "tbsheth@gecg28.ac.in",
+      "department_roles": [
+        "SSIP Activity Head"
+      ]
+    },
+    {
+      "id": 42,
+      "name": "Dr. Deepali Harkishanbhai Shah",
+      "department": null,
+      "designation": "Associate Professor",
+      "email": null,
+      "department_roles": null
+    },
+    {
+      "id": 43,
+      "name": "Dr. Aarti Narendra Bokade",
+      "department": "Instrumentation & Control Engineering",
+      "designation": "Assistant Professor",
+      "email": "aarti.bokade@gecg28.ac.in",
+      "department_roles": [
+        "Placement Cell Member"
+      ]
+    },
+    {
+      "id": 44,
+      "name": "Bijal Utsav Gadhia",
+      "department": "Computer Engineering",
+      "designation": "Assistant Professor",
+      "email": "bijal.gadhia@gecg28.ac.in",
+      "department_roles": [
+        "Hostel Coordinator"
+      ]
+    },
+    {
+      "id": 45,
+      "name": "Dhawal Punamchand Khem",
+      "department": "Computer Engineering",
+      "designation": "Assistant Professor",
+      "email": "khemdhawal@gecg28.ac.in",
+      "department_roles": [
+        "Alumni Member",
+        "Minority Cell Member"
+      ]
+    },
+    {
+      "id": 46,
+      "name": "Chetan Maganbhai Kapadiya",
+      "department": "Information Technology",
+      "designation": "Assistant Professor",
+      "email": "cmkapadiya@gecg28.ac.in",
+      "department_roles": [
+        "Placement Cell Member",
+        "SSIP Member",
+        "Alumni Member"
+      ]
+    },
+    {
+      "id": 47,
+      "name": "Sandeepkumar Jawaharlal Rajput",
+      "department": "Electronics & Communication Engineering",
+      "designation": "Assistant Professor",
+      "email": "sandeeprajput@gecg28.ac.in",
+      "department_roles": [
+        "Hostel Member"
+      ]
+    },
+    {
+      "id": 48,
+      "name": "Nisha Kantibhai Prajapati",
+      "department": "Electronics & Communication Engineering",
+      "designation": "Assistant Professor",
+      "email": "nisha@gecg28.ac.in",
+      "department_roles": [
+        "Anti Ragging Member",
+        "Women Development Cell Member",
+        "Admission Member"
+      ]
+    },
+    {
+      "id": 49,
+      "name": "Ujjval Rameshchandra Dave",
+      "department": "Electronics & Communication Engineering",
+      "designation": "Assistant Professor",
+      "email": "ujjval@gecg28.ac.in",
+      "department_roles": [
+        "NSS Member",
+        "Gymkhana Member",
+        "Admission Member"
+      ]
+    },
+    {
+      "id": 50,
+      "name": "Maulindu P. Patel",
+      "department": null,
+      "designation": "Assistant Professor",
+      "email": null,
+      "department_roles": null
+    },
+    {
+      "id": 51,
+      "name": "Hetal Kamaleshbhai Mehta",
+      "department": null,
+      "designation": "Assistant Professor",
+      "email": null,
+      "department_roles": null
+    },
+    {
+      "id": 52,
+      "name": "Dr. Vijaykumar Pravinbhai Dave",
+      "department": "Biomedical Engineering",
+      "designation": "Assistant Professor",
+      "email": null,
+      "department_roles": [
+        "Principal Investigator - GUJCOST-sponsored research project"
+      ]
+    },
+    {
+      "id": 53,
+      "name": "Pooja Chandrakantbhai Gajjar",
+      "department": null,
+      "designation": "Assistant Professor",
+      "email": null,
+      "department_roles": null
+    },
+    {
+      "id": 54,
+      "name": "Hina Kalpesh Patel",
+      "department": "Electronics & Communication Engineering",
+      "designation": "Assistant Professor",
+      "email": "hina@gecg28.ac.in",
+      "department_roles": [
+        "Alumni Member"
+      ]
+    },
+    {
+      "id": 55,
+      "name": "Dr. Pinal Jayantilal Patel",
+      "department": null,
+      "designation": "Assistant Professor",
+      "email": null,
+      "department_roles": null
+    },
+    {
+      "id": 56,
+      "name": "Dr. Komal Dineshbhai Anadkat",
+      "department": "Information Technology",
+      "designation": "Assistant Professor",
+      "email": "komalanadkat@gecg28.ac.in",
+      "department_roles": [
+        "NBA Cell Member",
+        "Student Corner Coordinator"
+      ]
+    },
+    {
+      "id": 57,
+      "name": "Mahendra Narottamdas Patel",
+      "department": null,
+      "designation": "Assistant Professor",
+      "email": null,
+      "department_roles": null
+    },
+    {
+      "id": 58,
+      "name": "Dr. Vashishtha Jayantibhai Patel",
+      "department": "General Department (English)",
+      "designation": "Assistant Professor",
+      "email": "vashishtha@gecg28.ac.in",
+      "department_roles": [
+        "NBA Cell Member"
+      ]
+    },
+    {
+      "id": 59,
+      "name": "Dr. Sunilkumar Prahladbhai Agrawal",
+      "department": "Electrical Engineering",
+      "designation": "Assistant Professor",
+      "email": "sunilagrawal@gecg28.ac.in",
+      "department_roles": [
+        "Grievance Cell Member",
+        "RTI Cell Member"
+      ]
+    },
+    {
+      "id": 60,
+      "name": "Navdeepsinh Virsangbhai Limbad",
+      "department": "Biomedical Engineering",
+      "designation": "Assistant Professor",
+      "email": "nvlimbad@gecg28.ac.in",
+      "department_roles": [
+        "Minority Cell Member"
+      ]
+    },
+    {
+      "id": 61,
+      "name": "Manan Mukeshkumar Nanavati",
+      "department": "Biomedical Engineering",
+      "designation": "Assistant Professor",
+      "email": "mmnanavati@gecg28.ac.in",
+      "department_roles": [
+        "Grievance Cell Member",
+        "RTI Cell Member",
+        "Student Corner Member"
+      ]
+    },
+    {
+      "id": 62,
+      "name": "Suresh Kumar Bhikhabhai Patel",
+      "department": "Information Technology",
+      "designation": "Assistant Professor",
+      "email": "sbpatelit@gecg28.ac.in",
+      "department_roles": [
+        "Admission Coordinator"
+      ]
+    },
+    {
+      "id": 63,
+      "name": "Priyank Rameshbhai Bhavsar",
+      "department": "Electrical Engineering",
+      "designation": "Assistant Professor",
+      "email": "prbhavsar@gecg28.ac.in",
+      "department_roles": [
+        "Placement Cell Member",
+        "Student Corner Member"
+      ]
+    },
+    {
+      "id": 64,
+      "name": "Niravkumar Dahyabhai Patel",
+      "department": "Electrical Engineering",
+      "designation": "Assistant Professor",
+      "email": "niravdpatel@gecg28.ac.in",
+      "department_roles": [
+        "Hostel Member"
+      ]
+    },
+    {
+      "id": 65,
+      "name": "Hetal Bhupendrasinh Chauhan",
+      "department": "Information Technology",
+      "designation": "Assistant Professor",
+      "email": null,
+      "department_roles": null
+    },
+    {
+      "id": 66,
+      "name": "Jeel Jitendra Shah",
+      "department": "Instrumentation & Control Engineering",
+      "designation": "Assistant Professor",
+      "email": "jheelshah@gecg28.ac.in",
+      "department_roles": [
+        "Alumni Member",
+        "Admission Member"
+      ]
+    },
+    {
+      "id": 67,
+      "name": "Ashokkumar Lakhabhai Vaghamshi",
+      "department": "Electrical Engineering",
+      "designation": "Assistant Professor",
+      "email": "ashokvaghamshi@gecg28.ac.in",
+      "department_roles": [
+        "SSIP Member",
+        "NBA Cell Member"
+      ]
+    },
+    {
+      "id": 68,
+      "name": "Jignesh Kanubhai Bhavsar",
+      "department": null,
+      "designation": "Assistant Professor",
+      "email": null,
+      "department_roles": null
+    },
+    {
+      "id": 69,
+      "name": "Nisarg Kuntalkumar Bhatt",
+      "department": "Electronics & Communication Engineering",
+      "designation": "Assistant Professor",
+      "email": "nisarg@gecg28.ac.in",
+      "department_roles": [
+        "Student Corner Member"
+      ]
+    },
+    {
+      "id": 70,
+      "name": "Dr. Narendra Arora",
+      "department": null,
+      "designation": "Professor",
+      "email": null,
+      "department_roles": null
+    },
+    {
+      "id": 71,
+      "name": "Mukesh Bhimjibhai Hingu",
+      "department": "Instrumentation & Control Engineering",
+      "designation": "Assistant Professor",
+      "email": "hingumukesh@gecg28.ac.in",
+      "department_roles": [
+        "Anti Ragging Member"
+      ]
+    },
+    {
+      "id": 72,
+      "name": "Hemenkumar Hareshbhai Thakar",
+      "department": "Metallurgy Engineering",
+      "designation": "Assistant Professor",
+      "email": "hementhakar@gecg28.ac.in",
+      "department_roles": [
+        "Placement Cell Member",
+        "Alumni Member",
+        "Library Member"
+      ]
+    },
+    {
+      "id": 73,
+      "name": "Dr. Dhaval Arvindbhai Parikh",
+      "department": "Computer Engineering / Information Technology",
+      "designation": "Professor",
+      "email": null,
+      "department_roles": [
+        "Head CE/IT (per a 2021 placement report)"
+      ]
+    },
+    {
+      "id": 74,
+      "name": "Dr. Avani Arvind Vithalani",
+      "department": null,
+      "designation": "Assistant Professor",
+      "email": null,
+      "department_roles": null
+    },
+    {
+      "id": 75,
+      "name": "Dr. Niralben Jashavantbhai Modi",
+      "department": "General Department (Chemistry)",
+      "designation": "Assistant Professor",
+      "email": "niralmodi@gecg28.ac.in",
+      "department_roles": [
+        "Student Corner Member"
+      ]
+    },
+    {
+      "id": 76,
+      "name": "Ashvinkumar Rameshbhai Prajapati",
+      "department": null,
+      "designation": "Assistant Professor",
+      "email": null,
+      "department_roles": null
+    },
+    {
+      "id": 77,
+      "name": "Dr. Hemani Yogesh Shah",
+      "department": "Computer Engineering",
+      "designation": "Assistant Professor",
+      "email": "hemanishah@gecg28.ac.in",
+      "department_roles": [
+        "Women Development Cell Member",
+        "Library Member"
+      ]
+    },
+    {
+      "id": 78,
+      "name": "Nitinkumar Mukeshbhai Raval",
+      "department": "Computer Engineering",
+      "designation": "Assistant Professor",
+      "email": "nitinraval@gecg28.ac.in",
+      "department_roles": [
+        "Grievance Cell Member",
+        "RTI Cell Member"
+      ]
+    },
+    {
+      "id": 79,
+      "name": "Viral Ratilal Patel",
+      "department": "Computer Engineering",
+      "designation": "Assistant Professor",
+      "email": "viralpatel@gecg28.ac.in",
+      "department_roles": [
+        "Anti Ragging Member",
+        "Student Corner Member",
+        "Minority Cell Member"
+      ]
+    },
+    {
+      "id": 80,
+      "name": "Yogendra Pravinbhai Tank",
+      "department": null,
+      "designation": "Assistant Professor",
+      "email": null,
+      "department_roles": null
+    },
+    {
+      "id": 81,
+      "name": "Ravi Chandulal Butani",
+      "department": "Electronics & Communication Engineering",
+      "designation": "Assistant Professor",
+      "email": "ravi@gecg28.ac.in",
+      "department_roles": [
+        "Grievance Cell Member",
+        "RTI Cell Member",
+        "NSS Member",
+        "Gymkhana Member"
+      ]
+    },
+    {
+      "id": 82,
+      "name": "Neetirajsinh Jaydeepsinh Chhasatia",
+      "department": "Electronics & Communication Engineering",
+      "designation": "Assistant Professor",
+      "email": "neetirajsinh@gecg28.ac.in",
+      "department_roles": [
+        "Admission Member"
+      ]
+    },
+    {
+      "id": 83,
+      "name": "Rajat Girjashankar Pandey",
+      "department": "Electronics & Communication Engineering",
+      "designation": "Assistant Professor",
+      "email": "rajat@gecg28.ac.in",
+      "department_roles": [
+        "Library Member"
+      ]
+    },
+    {
+      "id": 84,
+      "name": "Dr. Purvi Amrutlal Koringa",
+      "department": "Electronics & Communication Engineering",
+      "designation": "Assistant Professor",
+      "email": "purvi@gecg28.ac.in",
+      "department_roles": [
+        "Anti Ragging Member"
+      ]
+    },
+    {
+      "id": 85,
+      "name": "Manish Rajendrabhai Jani",
+      "department": "Instrumentation & Control Engineering",
+      "designation": "Associate Professor",
+      "email": "manishrjani@gecg28.ac.in",
+      "department_roles": [
+        "Alumni Activity Head",
+        "Library Activity Head"
+      ]
+    },
+    {
+      "id": 86,
+      "name": "Dr. Kalpeshkumar Bharatbhai Pathak",
+      "department": null,
+      "designation": "Assistant Professor",
+      "email": null,
+      "department_roles": [
+        "Gymkhana Coordinator (per a 2021 report)"
+      ]
+    },
+    {
+      "id": 87,
+      "name": "Dr. Shalini Ashutosh Rankawat",
+      "department": null,
+      "designation": "Associate Professor",
+      "email": null,
+      "department_roles": null
+    },
+    {
+      "id": 88,
+      "name": "Ketan Kishorkumar Acharya",
+      "department": "Instrumentation & Control Engineering",
+      "designation": "Assistant Professor",
+      "email": "ketan_acharya@gecg28.ac.in",
+      "department_roles": [
+        "NSS Member",
+        "SSIP Member",
+        "Gymkhana Member",
+        "Student Corner Member"
+      ]
+    },
+    {
+      "id": 89,
+      "name": "Dr. Minal Sanjay Dani",
+      "department": null,
+      "designation": "Assistant Professor",
+      "email": null,
+      "department_roles": null
+    },
+    {
+      "id": 90,
+      "name": "Dr. Mitulkumar Baldevdas Patel",
+      "department": null,
+      "designation": "Assistant Professor",
+      "email": null,
+      "department_roles": null
+    },
+    {
+      "id": 91,
+      "name": "Ghanshyam Dalsukhlal Parmar",
+      "department": "Biomedical Engineering",
+      "designation": "Assistant Professor",
+      "email": "ghanshyam@gecg28.ac.in",
+      "department_roles": [
+        "NBA Cell Member"
+      ]
+    },
+    {
+      "id": 92,
+      "name": "Piyush Vrijlal Patel",
+      "department": "Biomedical Engineering",
+      "designation": "Assistant Professor",
+      "email": "pvpatel@gecg28.ac.in",
+      "department_roles": [
+        "NSS Member",
+        "SSIP Member",
+        "NBA Cell Member",
+        "Gymkhana Member"
+      ]
+    },
+    {
+      "id": 93,
+      "name": "Dr. Devendrakumar Hirabhai Patel",
+      "department": null,
+      "designation": "Assistant Professor",
+      "email": null,
+      "department_roles": null
+    },
+    {
+      "id": 94,
+      "name": "Suhasbhai Haribhai Patel",
+      "department": "Electronics & Communication Engineering",
+      "designation": "Assistant Professor",
+      "email": "suhas@gecg28.ac.in",
+      "department_roles": [
+        "SSIP Member"
+      ]
+    },
+    {
+      "id": 95,
+      "name": "Nileshkumar Maheshbhai Bankar",
+      "department": "Electronics & Communication Engineering",
+      "designation": "Assistant Professor",
+      "email": "nilesh.bankar@gecg28.ac.in",
+      "department_roles": [
+        "Minority Cell Coordinator"
+      ]
+    },
+    {
+      "id": 96,
+      "name": "Amarkumar Dayaram Rathod",
+      "department": "Instrumentation & Control Engineering",
+      "designation": "Associate Professor",
+      "email": "adrathod@gecg28.ac.in",
+      "department_roles": [
+        "Anti Ragging Activity Head"
+      ]
+    },
+    {
+      "id": 97,
+      "name": "Niyat V. Patel",
+      "department": null,
+      "designation": "Assistant Professor",
+      "email": null,
+      "department_roles": null
+    },
+    {
+      "id": 98,
+      "name": "Dr. Namrata Setu Shroff",
+      "department": null,
+      "designation": "Assistant Professor",
+      "email": null,
+      "department_roles": null
+    },
+    {
+      "id": 99,
+      "name": "Dr. Harshadkumar Hamirbhai Jadav",
+      "department": null,
+      "designation": "Assistant Professor",
+      "email": null,
+      "department_roles": null
+    },
+    {
+      "id": 100,
+      "name": "Dr. Purvesh Kamleshkumar Nanavaty",
+      "department": "Metallurgy Engineering",
+      "designation": "Assistant Professor",
+      "email": "pknanavati@gecg28.ac.in",
+      "department_roles": [
+        "SSIP Member",
+        "NBA Cell Member",
+        "Hostel Coordinator"
+      ]
+    },
+    {
+      "id": 101,
+      "name": "Vijaykumar Natvarlal Modi",
+      "department": "Mechanical Engineering",
+      "designation": "Assistant Professor",
+      "email": "vnmodi@gecg28.ac.in",
+      "department_roles": [
+        "SSIP Member",
+        "NBA Cell Member"
+      ]
+    },
+    {
+      "id": 102,
+      "name": "Dr. Ujas Deven Pandya",
+      "department": null,
+      "designation": "Assistant Professor",
+      "email": null,
+      "department_roles": null
+    },
+    {
+      "id": 103,
+      "name": "Ajaykumar Babulal Patel",
+      "department": null,
+      "designation": "Assistant Professor",
+      "email": null,
+      "department_roles": null
+    },
+    {
+      "id": 104,
+      "name": "Dr. Mahendrabhai Amrutbhai Patel",
+      "department": null,
+      "designation": "Assistant Professor",
+      "email": null,
+      "department_roles": null
+    },
+    {
+      "id": 105,
+      "name": "Dr. Mohitkumar Ishvarlal Bosmia",
+      "department": null,
+      "designation": "Assistant Professor",
+      "email": null,
+      "department_roles": null
+    },
+    {
+      "id": 106,
+      "name": "Dr. Daksha Manojbhai Diwan",
+      "department": null,
+      "designation": "Assistant Professor",
+      "email": null,
+      "department_roles": null
+    },
+    {
+      "id": 107,
+      "name": "Dr. Niravkumar Dasharathbhai Patel",
+      "department": "General Department (Maths)",
+      "designation": "Assistant Professor",
+      "email": "ndpatel@gecg28.ac.in",
+      "department_roles": [
+        "NBA Cell Member"
+      ]
+    },
+    {
+      "id": 108,
+      "name": "Dr. Yaminiben Mansukhlal Parmar",
+      "department": "General Department (Maths)",
+      "designation": "Assistant Professor",
+      "email": "ymp.maths@gecg28.ac.in",
+      "department_roles": null
+    },
+    {
+      "id": 109,
+      "name": "Dr. Jignesh Madhusudanbhai Panchal",
+      "department": "General Department (Physics)",
+      "designation": "Assistant Professor",
+      "email": "jignesh.phy11@gecg28.ac.in",
+      "department_roles": [
+        "NSS Member",
+        "SSIP Member",
+        "Gymkhana Member"
+      ]
+    },
+    {
+      "id": 110,
+      "name": "Kalpeshkumar Karashanbhai Patel",
+      "department": null,
+      "designation": "Assistant Professor",
+      "email": null,
+      "department_roles": null
+    },
+    {
+      "id": 111,
+      "name": "Hemendra Arjunbhai Miskin",
+      "department": null,
+      "designation": "Associate Professor",
+      "email": null,
+      "department_roles": null
+    },
+    {
+      "id": 112,
+      "name": "Dr. Daulat Gopallal Sharma",
+      "department": "Metallurgy Engineering",
+      "designation": "Assistant Professor",
+      "email": "dgsharma@gecg28.ac.in",
+      "department_roles": [
+        "NSS Activity Head",
+        "Gymkhana Activity Head"
+      ]
+    },
+    {
+      "id": 113,
+      "name": "Priyank Ketankumar Shah",
+      "department": "Biomedical Engineering",
+      "designation": "Assistant Professor",
+      "email": "priyankbm@gecg28.ac.in",
+      "department_roles": [
+        "Admission Member"
+      ]
+    },
+    {
+      "id": 114,
+      "name": "Rutu Pareshbhai Nayak",
+      "department": "Biomedical Engineering",
+      "designation": "Assistant Professor",
+      "email": "nayak.rutu@gecg28.ac.in",
+      "department_roles": [
+        "Anti Ragging Member",
+        "Women Development Cell Member",
+        "Alumni Member"
+      ]
+    },
+    {
+      "id": 115,
+      "name": "Anamika Khushalbhai Mittal",
+      "department": null,
+      "designation": "Assistant Professor",
+      "email": null,
+      "department_roles": null
+    },
+    {
+      "id": 116,
+      "name": "Prashant Ramjibhai Chaudhari",
+      "department": "Information Technology",
+      "designation": "Assistant Professor",
+      "email": "prashant.prc@gecg28.ac.in",
+      "department_roles": [
+        "Admission Member"
+      ]
+    },
+    {
+      "id": 117,
+      "name": "Manishaben Haribhai Valera",
+      "department": null,
+      "designation": "Assistant Professor",
+      "email": null,
+      "department_roles": null
+    },
+    {
+      "id": 118,
+      "name": "Vanvirsinh J. Chauhan",
+      "department": "Mechanical Engineering",
+      "designation": null,
+      "email": "vjchauhan@gecg28.ac.in",
+      "department_roles": [
+        "Anti Ragging Coordinator",
+        "Hostel Rector"
+      ]
+    },
+    {
+      "id": 119,
+      "name": "Alpesh M. Patel",
+      "department": "Electronics & Communication Engineering",
+      "designation": null,
+      "email": "alpeshpatel@gecg28.ac.in",
+      "department_roles": [
+        "NSS Coordinator",
+        "Gymkhana Coordinator"
+      ]
+    },
+    {
+      "id": 120,
+      "name": "Sandipkumar S. Patel",
+      "department": "Mechanical Engineering",
+      "designation": null,
+      "email": "sspatel@gecg28.ac.in",
+      "department_roles": [
+        "NSS Activity Head",
+        "Gymkhana Activity Head",
+        "Admission Coordinator"
+      ]
+    },
+    {
+      "id": 121,
+      "name": "Kirit V. Patel",
+      "department": "Electronics & Communication Engineering",
+      "designation": null,
+      "email": "kirit@gecg28.ac.in",
+      "department_roles": [
+        "Placement Cell Coordinator"
+      ]
+    },
+    {
+      "id": 122,
+      "name": "Mitul Khandhedia",
+      "department": "Biomedical Engineering",
+      "designation": null,
+      "email": "mitul.khandhedia@gecg28.ac.in",
+      "department_roles": [
+        "Placement Cell Member"
+      ]
+    },
+    {
+      "id": 123,
+      "name": "Khushbu P. Patel",
+      "department": "Robotics and Automation Engineering",
+      "designation": null,
+      "email": "khushbupatel@gecg28.ac.in",
+      "department_roles": [
+        "Placement Cell Member",
+        "SSIP Member"
+      ]
+    },
+    {
+      "id": 124,
+      "name": "Harikrushna B. Jethva",
+      "department": "Computer Engineering",
+      "designation": null,
+      "email": "hbjethva@gecg28.ac.in",
+      "department_roles": [
+        "SSIP Activity Head"
+      ]
+    },
+    {
+      "id": 125,
+      "name": "Dr. Kunal Ashvinkumar Bhatt",
+      "department": "Electrical Engineering",
+      "designation": null,
+      "email": "kunalbhatt@gecg28.ac.in",
+      "department_roles": [
+        "SSIP Coordinator",
+        "Department Coordinator Electrical Engineering"
+      ]
+    },
+    {
+      "id": 126,
+      "name": "Rupal P. Vyasa",
+      "department": "Mechanical Engineering",
+      "designation": null,
+      "email": "rpvyasa@gecg28.ac.in",
+      "department_roles": [
+        "Women Development Cell Coordinator"
+      ]
+    },
+    {
+      "id": 127,
+      "name": "Rahul D. Mehta",
+      "department": "Electronics & Communication Engineering",
+      "designation": null,
+      "email": "rahulmehta@gecg28.ac.in",
+      "department_roles": [
+        "NBA Cell Member",
+        "Alumni Coordinator",
+        "Student Corner Coordinator"
+      ]
+    },
+    {
+      "id": 128,
+      "name": "Ghanshyam M. Savaliya",
+      "department": "Civil Engineering",
+      "designation": null,
+      "email": "gmsavaliya@gecg28.ac.in",
+      "department_roles": [
+        "NBA Cell Member"
+      ]
+    },
+    {
+      "id": 129,
+      "name": "Narendrakumar Amrutlal Patel",
+      "department": "Mechanical Engineering",
+      "designation": null,
+      "email": "napatel@gecg28.ac.in",
+      "department_roles": [
+        "NBA Cell Member"
+      ]
+    },
+    {
+      "id": 130,
+      "name": "Sandip C. Rathod",
+      "department": "Civil Engineering",
+      "designation": null,
+      "email": "scrathod@gecg28.ac.in",
+      "department_roles": [
+        "Alumni Coordinator"
+      ]
+    },
+    {
+      "id": 131,
+      "name": "Chirag N. Patel",
+      "department": "Civil Engineering",
+      "designation": null,
+      "email": "cnpatel@gecg28.ac.in",
+      "department_roles": [
+        "Library Coordinator"
+      ]
+    },
+    {
+      "id": 132,
+      "name": "M. R. Mali",
+      "department": "Robotics and Automation Engineering",
+      "designation": null,
+      "email": "mrmali@gecg28.ac.in",
+      "department_roles": [
+        "Admission Coordinator"
+      ]
+    },
+    {
+      "id": 133,
+      "name": "Darshana K. Dave",
+      "department": "Robotics and Automation Engineering",
+      "designation": null,
+      "email": "darshana_dave@gecg28.ac.in",
+      "department_roles": [
+        "Student Corner Member"
+      ]
+    },
+    {
+      "id": 134,
+      "name": "Dr. Ashok R. Patel",
+      "department": "General Department (Maths)",
+      "designation": "Head of Department",
+      "email": "arpatel@gecg28.ac.in",
+      "department_roles": [
+        "Head of Department General Department"
+      ]
+    },
+    {
+      "id": 135,
+      "name": "Dr. D. A. Patel",
+      "department": "General Department (Maths)",
+      "designation": "Associate Professor",
+      "email": "dapatel@gecg28.ac.in",
+      "department_roles": null
+    },
+    {
+      "id": 136,
+      "name": "Dr. Fenny J. Narsingani",
+      "department": "General Department (Maths)",
+      "designation": "Associate Professor",
+      "email": "fjnarsingani@gecg28.ac.in",
+      "department_roles": null
+    }
+  ],
+  "blocks": [
+    {
+      "id": "block_1",
+      "name": "Administrative Block",
+      "description": null
+    },
+    {
+      "id": "block_2",
+      "name": "EC & IC Department Block",
+      "description": null
+    },
+    {
+      "id": "block_3",
+      "name": "General Department Block",
+      "description": null
+    },
+    {
+      "id": "block_4",
+      "name": "Library Block",
+      "description": null
+    },
+    {
+      "id": "block_5",
+      "name": "CE & IT Department Block",
+      "description": null
+    },
+    {
+      "id": "block_6",
+      "name": "Workshop",
+      "description": null
+    },
+    {
+      "id": "block_7",
+      "name": "Canteen Block",
+      "description": null
+    },
+    {
+      "id": "block_8",
+      "name": "Biomedical & Metallurgy Department Block",
+      "description": null
+    }
+  ],
+  "departments": [
+    {
+      "id": "administrative",
+      "name": "Administrative Department",
+      "short_name": "Administrative",
+      "HOD": null,
+      "block_id": "block_1"
+    },
+    {
+      "id": "biomedical",
+      "name": "Biomedical Engineering",
+      "short_name": "BME",
+      "HOD": "Dr. Ghanshyam Parmar",
+      "block_id": "block_8"
+    },
+    {
+      "id": "computer",
+      "name": "Computer Engineering",
+      "short_name": "CE",
+      "HOD": "Dr. Dhaval Parikh",
+      "block_id": "block_5"
+    },
+    {
+      "id": "electronics_communication",
+      "name": "Electronics & Communication Engineering",
+      "short_name": "EC",
+      "HOD": "Dr. Tejas B. Sheth",
+      "block_id": "block_2"
+    },
+    {
+      "id": "general",
+      "name": "General Department",
+      "short_name": "General",
+      "HOD": "Dr. Ashok R Patel",
+      "block_id": "block_3"
+    },
+    {
+      "id": "information_technology",
+      "name": "Information Technology",
+      "short_name": "IT",
+      "HOD": "Dr. Komal Anadkat",
+      "block_id": "block_5"
+    },
+    {
+      "id": "instrumentation_control",
+      "name": "Instrumentation & Control Engineering",
+      "short_name": "IC",
+      "HOD": "Prof. Manish Jani",
+      "block_id": "block_2"
+    },
+    {
+      "id": "metallurgy",
+      "name": "Metallurgy Engineering",
+      "short_name": "Metallurgy",
+      "HOD": "Dr. Indravadan B. Dave",
+      "block_id": "block_8"
+    },
+    {
+      "id": "mechanical",
+      "name": "Mechanical Engineering",
+      "short_name": "ME",
+      "HOD": "Dr. Rupal P Vyasa",
+      "block_id": null
+    },
+    {
+      "id": "civil",
+      "name": "Civil Engineering",
+      "short_name": "Civil",
+      "HOD": "Dr. Narendra Arora",
+      "block_id": null
+    },
+    {
+      "id": "robotics_automation",
+      "name": "Robotics and Automation Engineering",
+      "short_name": "RA",
+      "HOD": "Dr. M J Vora",
+      "block_id": null
+    },
+    {
+      "id": "electrical",
+      "name": "Electrical Engineering",
+      "short_name": "EE",
+      "HOD": "Dr. Kunal Ashvinkumar Bhatt",
+      "block_id": null
+    }
+  ],
+  "landmarks": [
+    {
+      "id": "canteen",
+      "name": "Canteen",
+      "type": "Canteen",
+      "block_id": "block_7",
+      "location": null
+    },
+    {
+      "id": "boys_hostel",
+      "name": "Boys Hostel",
+      "type": "Hostel",
+      "block_id": null,
+      "location": null
+    },
+    {
+      "id": "girls_hostel",
+      "name": "Girls Hostel",
+      "type": "Hostel",
+      "block_id": null,
+      "location": null
+    },
+    {
+      "id": "library",
+      "name": "Central Library",
+      "type": "Library",
+      "block_id": "block_4",
+      "location": null
+    },
+    {
+      "id": "volleyball_ground",
+      "name": "Volleyball Ground",
+      "type": "Sports Ground",
+      "block_id": null,
+      "location": null
+    },
+    {
+      "id": "cv_raman_hall",
+      "name": "CV Raman Hall",
+      "type": "Hall",
+      "block_id": "block_1",
+      "location": null
+    },
+    {
+      "id": "gate_1",
+      "name": "Gate 1",
+      "type": "Gate",
+      "block_id": null,
+      "location": null
+    },
+    {
+      "id": "gate_2",
+      "name": "Gate 2",
+      "type": "Gate",
+      "block_id": null,
+      "location": null
+    },
+    {
+      "id": "principal_office",
+      "name": "Principal Office",
+      "type": "Office",
+      "block_id": "block_1",
+      "location": null
+    }
+  ],
+  "placement_overview": {
+    "academic_year_2023_2024": {
+      "total_intake_2020_21": 570,
+      "total_admitted_2020_21": 433,
+      "graduated_students": 556,
+      "placed_students": 204,
+      "placement_rate_percentage": 39.23,
+      "students_higher_studies": 36,
+      "median_salary_lpa": 3.39
+    },
+    "general_metrics": {
+      "highest_package_lpa": 16.0,
+      "average_package_lpa": 3.67,
+      "median_package_lpa": 3.5
+    },
+    "branch_wise_placement_statistics_2023_2024": [
+      {
+        "branch": "BE Metallurgy Engineering",
+        "placement_rate_percentage": 100.0,
+        "median_package_lpa": 4.3
+      },
+      {
+        "branch": "BE Biomedical Engineering",
+        "placement_rate_percentage": 76.67
+      },
+      {
+        "branch": "BE Instrumentation and Control Engineering",
+        "placement_rate_percentage": 62.9
+      },
+      {
+        "branch": "BE Information Technology",
+        "placement_rate_percentage": 53.03,
+        "placed_students_count": 23,
+        "median_package_lpa": 3.78
+      },
+      {
+        "branch": "BE Computer Engineering",
+        "placement_rate_percentage": 35.56,
+        "placed_students_count": 31
+      },
+      {
+        "branch": "BE Electronics and Communication Engineering",
+        "placement_rate_percentage": 26.32
+      }
+    ],
+    "salary_distribution": [
+      {
+        "range_lpa": "15.0 - 25.0",
+        "candidates_count": 1,
+        "share_percentage": 1.75
+      },
+      {
+        "range_lpa": "10.0 - 15.0",
+        "candidates_count": 1,
+        "share_percentage": 1.75
+      },
+      {
+        "range_lpa": "6.0 - 10.0",
+        "candidates_count": 4,
+        "share_percentage": 7.02
+      },
+      {
+        "range_lpa": "3.0 - 6.0",
+        "candidates_count": 32,
+        "share_percentage": 56.14
+      },
+      {
+        "range_lpa": "0.0 - 3.0",
+        "candidates_count": 19,
+        "share_percentage": 33.33
+      }
+    ],
+    "participating_recruiters": [
+      "Tata Consultancy Services (TCS)",
+      "Reliance Industries Limited (RIL)",
+      "eInfochips",
+      "Tatvasoft",
+      "Bacancy Technology",
+      "DeltaX",
+      "Roima Intelligence",
+      "Tatvic Digital Analytics",
+      "Meditab",
+      "Veloxcore",
+      "Wipro",
+      "Silver Touch Technologies",
+      "Capgemini"
+    ],
+    "placement_cell_activities": [
+      "Participation in GTU/VGEC Campus Placement Fairs",
+      "Career Motivation Webinars",
+      "Soft Skills Training Programs",
+      "Mock Interview Preparations",
+      "Pre-Placement Talks and Skill Testing"
+    ]
+  }
+}

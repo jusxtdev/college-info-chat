@@ -1,7 +1,7 @@
 from fastapi import APIRouter
 
-from backend.schemas.chatSchema import ChatRequest, ChatResponse
-from backend.services.llm import process_chat_request    
+from schemas.chatSchema import ChatRequest, ChatResponse
+from services.llm import process_chat_request
 
 chat_router = APIRouter(
     prefix="/chat",
